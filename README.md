@@ -4,7 +4,7 @@
 {
     "pronouns": "he/him",
     "age": 17,
-    "studying": "HTL it/media-design leonding",
+    "studying": "IT/media-design",
     "location": "upper austria"
 }
 ```
