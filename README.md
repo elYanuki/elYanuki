@@ -9,6 +9,10 @@
 }
 ```
 ----
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elYanuki&layout=compact&theme=dracula)
+
+----
 ### Check Out 
 
 🎮🕹️ **[Gameshow](https://github.com/elYanuki/Gameshow)** | Create a interactive gameshow with your own gameboards and play irl
