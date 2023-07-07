@@ -17,4 +17,4 @@
 
 🎮🕹️ **[Gameshow](https://github.com/elYanuki/Gameshow)** | Create a interactive gameshow with your own gameboards and play irl
 
-✌️👨‍💻 **[Portfolio](https://github.com/elYanuki/Portfolio)** | my Portfolio webpage showing off some of my projects
+✌️👨‍💻 **[Portfolio](https://github.com/elYanuki/Portfolio)** | [yanik.kendler.me](https://yanik.kendler.me) | my Portfolio webpage showing off some of my projects
