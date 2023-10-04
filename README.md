@@ -3,7 +3,7 @@
 ```json
 {
     "pronouns": "he/him",
-    "age": 17,
+    "age": 18,
     "studying": "IT/media-design",
     "location": "upper austria"
 }
